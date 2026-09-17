@@ -1,0 +1,5 @@
+git branch -vv
+
+* bug-fix-revert 821f887 [origin/bug-fix-revert] Add pull request verification
+  bug-fix-typo   38891e5 [origin/bug-fix-typo] Fix typo in README footer
+  main           2fe4209 [origin/main] Add fork and merge verification files
